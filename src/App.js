@@ -757,7 +757,7 @@ function About() {
 
 
 
-              <ul style={{ listStyle: 'none' }}>
+              <ul style={{ listStyle: 'none', marginLeft: '80px' }}>
                 <li style={{ display: 'flex', alignItems: 'center', marginBottom: '16px', fontSize: '15px', color: 'var(--dark-text-muted)' }}>
                   <MailIcon />
                   <span style={{ marginLeft: '12px' }}>selin.bardakci520@gmail.com</span>
