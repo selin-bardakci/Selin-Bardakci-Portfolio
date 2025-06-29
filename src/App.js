@@ -742,7 +742,7 @@ function About() {
               margin: '0 auto 40px auto'
             }}>
               <img
-                src="profilephoto.png"
+                src="profilePhoto.png"
                 alt="Selin Bardakci"
                 style={{
                   width: '100%',
