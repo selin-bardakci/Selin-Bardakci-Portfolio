@@ -330,7 +330,7 @@ const projects = [
     category: "web3 freelance",
     link: "#",
     images: [
-      "ftakemainphoto.png",
+      "ftakeMainPhoto.png",
       "ftake2.png",
       "ftake3.png"
     ],
