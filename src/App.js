@@ -492,7 +492,7 @@ function Home() {
             position: 'relative',
             zIndex: '1',
             transition: 'color 0.3s ease'
-          }}>Specializing in Aerospace Applications & Statistical Analysis</p>
+          }}>Computer Engineer | Full-Stack & Blockchain Developer</p>
 
           <p style={{
             fontSize: '16px',
@@ -503,9 +503,9 @@ function Home() {
             position: 'relative',
             zIndex: '1'
           }}>
-            Passionate about solving complex engineering problems through innovative software solutions,
-            statistical modeling, and cutting-edge development practices. Dedicated to creating impactful
-            technology that shapes the future of aerospace and beyond.
+            Computer Engineering student with expertise in full-stack development, blockchain technologies, 
+            and embedded systems. Bringing cross-cultural adaptability and hands-on experience managing 
+            global tech projects and investor relations across diverse markets.
           </p>
 
           <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', position: 'relative', zIndex: '1' }}>
