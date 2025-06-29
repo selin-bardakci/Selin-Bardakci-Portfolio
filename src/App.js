@@ -492,7 +492,7 @@ function Home() {
             position: 'relative',
             zIndex: '1',
             transition: 'color 0.3s ease'
-          }}>Computer Engineer | Full-Stack & Blockchain Developer</p>
+          }}>Computer Engineering Student at Gebze Technical University</p>
 
           <p style={{
             fontSize: '16px',
@@ -503,8 +503,7 @@ function Home() {
             position: 'relative',
             zIndex: '1'
           }}>
-            Computer Engineering student with expertise in full-stack development, blockchain technologies, 
-            and embedded systems. Bringing cross-cultural adaptability and hands-on experience managing 
+            Computer Engineering student with expertise in embedded systems, full-stack development, and blockchain technologies. Bringing cross-cultural adaptability and hands-on experience managing 
             global tech projects and investor relations across diverse markets.
           </p>
 
