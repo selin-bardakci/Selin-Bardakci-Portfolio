@@ -265,7 +265,8 @@ const projects = [
     category: "hackathon web3",
     link: "#",
     images: [
-      "vaultifyMainPhoto.png"
+      "vaultifyMainPhoto.png",
+      "vaultify.png"
     ],
     features: [
       "Time-locked vault creation with ETH and data",
